@@ -27,9 +27,10 @@
     "@ionic/angular": "^4.7.1",
     "@ionic/utils-fs": "^2.0.7",
     "cordova-android": "^8.1.0",
+    "cordova-browser": "6.0.0",
     "cordova-ios": "^5.0.1",
     "cordova-plugin-device": "^2.0.2",
-    "cordova-plugin-facebook4": "^6.0.0",
+    "cordova-plugin-facebook4": "^6.4.0",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^4.1.2",
     "cordova-plugin-splashscreen": "^5.0.2",
@@ -71,8 +72,8 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-facebook4": {
-        "APP_ID": "2492666774174547",
-        "APP_NAME": "MyIonicFacebook"
+        "APP_ID": "276451110044546",
+        "APP_NAME": "IonicApplication"
       },
       "cordova-plugin-whitelist": {},
       "cordova-plugin-statusbar": {},
@@ -85,7 +86,8 @@
     },
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "browser"
     ]
   }
 }
