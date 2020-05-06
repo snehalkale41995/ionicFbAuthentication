@@ -103,4 +103,7 @@
         <variable name="APP_ID" value="276451110044546" />
         <variable name="APP_NAME" value="IonicApplication" />
     </plugin>
+    <plugin name="cordova-plugin-googleplus" spec="^5.3.2">
+        <variable name="REVERSED_CLIENT_ID" value="com.googleusercontent.apps.692326419861-ov7d5sr8gefloqn55n39424ia9ik6vmk" />
+    </plugin>
 </widget>
